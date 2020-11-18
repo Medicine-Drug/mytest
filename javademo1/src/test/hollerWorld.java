@@ -6,4 +6,8 @@ public class hollerWorld {
 		//打印
 		System.out.println("hello word!!!");
 	}
+	
+	public void sayhi(){
+		System.out.println("sayhi 方法");
+	}
 }
